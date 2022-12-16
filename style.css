@@ -1,0 +1,39 @@
+
+
+
+
+
+.menu{
+    height: 24px;
+    flex-shrink:0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav_right{
+    height: 24px;
+    flex-shrink:0;
+    color: black;
+}
+
+.sub_img{
+    width: 1.5625rem;
+}
+
+
+
+.card-title{
+    font-size: 1.1rem;
+    font-weight: 500;
+    
+}
+.card-text{
+    color: grey;
+    font-size: 0.875rem;
+}
+.text-muted{
+    font-size: 0.700rem;
+
+}
+.card_brand_img{
+    width: 2.1875rem;
+}
